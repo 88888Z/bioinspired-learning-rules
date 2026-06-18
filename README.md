@@ -7,7 +7,7 @@
 A systematic comparison of **Backpropagation (BP)** and **Feedback Alignment (FA)** — a biologically plausible learning rule — on the MNIST digit classification task.
 
 **Team NeuroAligners** — Neuromatch Academy Microlearning Project (Summer 2025)  
-*Team Lead: [Alireza AlaeiFaradonbeh](https://github.com/alirezaalaeifaradonbeh)*
+*Team Lead: [Alireza AlaeiFaradonbeh](https://github.com/alirezaalaeifaradonbeh) — [Certificate](https://portal.neuromatchacademy.org/certificate/dcf55de5-0e67-4597-b7a2-4f0dbd2b30d9)*
 
 ---
 
