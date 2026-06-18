@@ -94,11 +94,11 @@ The notebook generates 6 key plots covering accuracy/loss curves, noise robustne
 
 | Role | Name |
 |------|------|
-| **Team Lead** | **Alireza AlaeiFaradonbeh** |
-| Research & Literature | Avisa Fallah |
-| Core Implementation | Melina Mostafa |
+| **Team Lead & Lead Developer** | **Alireza AlaeiFaradonbeh** |
+| Core Implementation | Morteza Hashemi |
 | Data & Architecture | Yasaman Malahzadeh |
-| Notebook Development | Morteza Hashemi |
+| Research & Literature | Avisa Fallah |
+| Progress & Reporting | Melina Mostafa |
 | Literature | Mobina Golsefatan |
 | Literature | Sina Pirmoradian |
 
